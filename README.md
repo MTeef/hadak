@@ -1,5 +1,4 @@
 
-
 *Hadak* app, started as *li8ita*.
 
 Go to releases page for the .aab/apk files.
@@ -12,3 +11,4 @@ Go to releases page for the .aab/apk files.
 
 <img width="1264" height="848" alt="english_manual" src="https://github.com/user-attachments/assets/a640a52b-8f2b-4256-b394-17fd24177fa7" />
 
+![PicsArt_03-28-09 54 33](https://github.com/user-attachments/assets/2f20b2c2-de6e-4376-b509-e5e99a58a648)
