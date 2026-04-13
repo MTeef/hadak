@@ -1,7 +1,7 @@
 
 *Hadak* app, started as *li8ita*.
 
-Hadak is a location-based word search platform. Providers—whose locations may vary—choose specific words that represent the items, services, or jobs they offer, and share those words on social media. The app then shows users the closest providers based on their search.
+        People agree on a common word (or phrase) that represents an intent — for example, “taxi”. When enough participants (e.g., drivers) also declare that same word in different locations, a user searching for it is matched with the closest available match at that moment. No profiles, no history, no continuous tracking.
 
 Go to releases page for the .aab/apk files.
 
