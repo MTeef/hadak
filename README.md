@@ -1,9 +1,9 @@
 
 *Hadak* app, started as *li8ita*.
 
-        People agree on a common word (or phrase) that represents an intent — for example, “taxi”. 
-        When enough participants (e.g., drivers) also declare that same word in different locations,
-        a user searching for it is matched with the closest available match at that moment.
+  People agree on a common word (or phrase) that represents an intent — for example, “taxi”. 
+When enough participants (e.g., drivers) also declare that same word in different locations,
+a user searching for it is matched with the closest available match at that moment.
 
 Go to releases page for the .aab/apk files.
 
