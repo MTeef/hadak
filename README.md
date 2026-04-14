@@ -12,17 +12,17 @@ We decided to build something different.
 
 # General Idea
 This approach extends far beyond transport:
-   “taxi” → transport coordination
-   “pharmacy” / “paracetamol”** → finding nearby medicine availability
-   “fuel” → locating supply
-   “help” → emergency assistance
-   “place name” → coordinated travel
+   - “taxi” → transport coordination
+   - “pharmacy” / “paracetamol”** → finding nearby medicine availability
+   - “fuel” → locating supply
+   - “help” → emergency assistance
+   - “place name” → coordinated travel
 The system focuses on **temporary intent alignment**, not identity or behavior tracking.
 
 
 # Why This Matters
-    - In high-connectivity regions, privacy is often a preference.
-    - In low-connectivity or crisis environments, it becomes a necessity.
+   - In high-connectivity regions, privacy is often a preference.
+   - In low-connectivity or crisis environments, it becomes a necessity.
 A system that **does not centralize sensitive data** is not just “privacy-friendly” — it’s **resilient**.
 
 
