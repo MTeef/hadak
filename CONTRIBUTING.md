@@ -1,4 +1,6 @@
-# 🤝 Contributing to Hadak (Ligita)
+> Above every possessor of knowledge is a Knower
+
+# 🤝 Contributing to Hadak
 
 First — understand this:
 
