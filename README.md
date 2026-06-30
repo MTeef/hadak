@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="file_0000000001007243a88c8205b431b751" src="https://github.com/user-attachments/assets/98e3d039-3938-47ca-a51c-d12a6e923a2f" />
 
 *Hadak* app, started as *li8ita*.
 
