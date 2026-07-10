@@ -9,9 +9,11 @@ Because Hadak prioritizes total privacy and cuts out tracking frameworks, you ne
 2. **Open the App:** Launch Hadak. There is no registration, account creation, or login screen.
 3. **Declare or Search Intent:** Type a common keyword (e.g., “taxi”, “fuel”, “help”) to either broadcast your current localized intent or search for peers matching that intent nearby.
 
-https://github.com/user-attachments/assets/db9a2ad4-c09e-4382-8051-bdc4abb99f5b
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/db9a2ad4-c09e-4382-8051-bdc4abb99f5b" width="100%" controls></video>
+</p>
 
-
+<br>
 
 *Hadak* app, started as *li8ita*.
 
