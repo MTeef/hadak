@@ -14,6 +14,26 @@ Because Hadak prioritizes total privacy and cuts out tracking frameworks, you ne
 </p>
 
 <br>
+### Optional: Bulk Import via CSV
+If you are managing multiple intents, entries, or service providers, you can bulk import them using a CSV file. The file must follow this exact format without column headers:
+
+`Provider name, craft or service or product, image path on the phone, phone number, availability`
+
+| Column / Position | Description | Expected Value |
+| :--- | :--- | :--- |
+| **1** | Provider Name | Name of the person, group, or entity. |
+| **2** | Intent Keyword | The craft, service, or product (e.g., `taxi`, `paracetamol`). |
+| **3** | Image Path | Absolute local storage path to the image on your phone. |
+| **4** | Phone Number | Contact number for peer communication. |
+| **5** | Availability Status | Use **`1`** for Available or **`0`** for Unavailable. |
+
+https://github.com/user-attachments/assets/3fbd43eb-2e00-45d4-ac66-e6751d9e0401
+
+<br>
+<img width="1024" height="1536" alt="file_00000000728871f4a5fb8e0acfbd28a4" src="https://github.com/user-attachments/assets/4b75c559-cd7e-4974-880f-0ff2b4bc75ec" />
+
+https://drive.google.com/file/d/1G6e_Me9qwIhNeZJMlw8jwJv-D-i4gclJ/view?usp=sharing
+
 
 *Hadak* app, started as *li8ita*.
 
