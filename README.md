@@ -1,5 +1,18 @@
 <img width="1536" height="1024" alt="file_0000000001007243a88c8205b431b751" src="https://github.com/user-attachments/assets/98e3d039-3938-47ca-a51c-d12a6e923a2f" />
 
+
+# How to Use
+
+Because Hadak prioritizes total privacy and cuts out tracking frameworks, you need to manually grant permissions for the app to function correctly as a peer node.
+
+1. **Grant System Permissions:** Go to your phone's **Settings > Apps > Hadak > Permissions**. Ensure both **Location** and **Phone** permissions are explicitly enabled. This allows the app to calculate proximity locally and handle secure peer connectivity.
+2. **Open the App:** Launch Hadak. There is no registration, account creation, or login screen.
+3. **Declare or Search Intent:** Type a common keyword (e.g., “taxi”, “fuel”, “help”) to either broadcast your current localized intent or search for peers matching that intent nearby.
+
+https://github.com/user-attachments/assets/db9a2ad4-c09e-4382-8051-bdc4abb99f5b
+
+
+
 *Hadak* app, started as *li8ita*.
 
 # A Different Approach to Location: How Hadak Uses It Without Owning It
