@@ -14,6 +14,7 @@ Because Hadak prioritizes total privacy and cuts out tracking frameworks, you ne
 </p>
 
 <br>
+
 ### Optional: Bulk Import via CSV
 If you are managing multiple intents, entries, or service providers, you can bulk import them using a CSV file. The file must follow this exact format without column headers:
 
@@ -30,7 +31,7 @@ If you are managing multiple intents, entries, or service providers, you can bul
 https://github.com/user-attachments/assets/3fbd43eb-2e00-45d4-ac66-e6751d9e0401
 
 <br>
-<img width="1024" height="1536" alt="file_00000000728871f4a5fb8e0acfbd28a4" src="https://github.com/user-attachments/assets/4b75c559-cd7e-4974-880f-0ff2b4bc75ec" />
+<img width="1080" height="1620" alt="PicsArt_07-10-04 51 47" src="https://github.com/user-attachments/assets/317d8f20-98b7-4d5a-bd2d-c0b5886504d5" />
 
 https://drive.google.com/file/d/1G6e_Me9qwIhNeZJMlw8jwJv-D-i4gclJ/view?usp=sharing
 
